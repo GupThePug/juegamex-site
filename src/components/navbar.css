@@ -1,0 +1,29 @@
+.glass{
+    /* width: 50% !important;
+    padding: 5px !important;
+    margin: 10px !important;
+    background: rgba(245, 245, 245, 0.33);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.7px);
+    -webkit-backdrop-filter: blur(3.7px);
+    border: 1px solid rgba(245, 245, 245, 0.3); */
+
+}
+
+.logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: rgba(245, 245, 245, 0.33);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.7px);
+    -webkit-backdrop-filter: blur(3.7px);
+    border: 1px solid rgba(245, 245, 245, 0.3);
+}
+
+.pannelText{
+    margin: auto;
+    width: 800px;
+    margin-bottom: 10px;
+  }
